@@ -1,0 +1,162 @@
+<mxfile host="app.diagrams.net" modified="2023-10-12T19:05:33.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="t-em_zEixSFrkZfDB7sM" version="22.0.4" type="device">
+  <diagram name="Page-1" id="Po5Km8ZeCA5UCwh9uSR4">
+    <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="289.38" y="40" width="190" height="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="7gqt0PY7z3TmWNlQmAuE-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="7gqt0PY7z3TmWNlQmAuE-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="7gqt0PY7z3TmWNlQmAuE-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="7gqt0PY7z3TmWNlQmAuE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="7gqt0PY7z3TmWNlQmAuE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="7gqt0PY7z3TmWNlQmAuE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="oJB-THNjz2x2V4srmbNX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="270" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-4" value="Islamic App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Read Quran Page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-7" value="Search in quran" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-9" value="Get Aya tafseer &amp;amp; I3rab" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="310" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-10" value="Get Zekr by type" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-11" value="Search Zekr By Name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-12" value="Resume quran Reading" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="252.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-13" value="QuranAya" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="40" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-14" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7gqt0PY7z3TmWNlQmAuE-13" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-15" value="Number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7gqt0PY7z3TmWNlQmAuE-13" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-16" value="Sura Number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7gqt0PY7z3TmWNlQmAuE-13" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7gqt0PY7z3TmWNlQmAuE-8" value="Start/Resume Quran Khatma" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="190" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-10" value="Receive notification of&amp;nbsp;&lt;br&gt;&amp;nbsp;Islamic supplication" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="680" width="142.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-11" value="check number of zeker" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305.63" y="550" width="153.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-13" value="Knowing the direction of qibla" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="309.38" y="620" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-14" value="Knowing the Hijri date" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="1170" width="137.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-16" value="Search prayer timings by country" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="490" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-18" value="interpretation of derams" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="318.75" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-20" value="Search for the narrator of the hadith" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="1050" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-21" value="Search for&amp;nbsp; hadith by name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="307.51" y="1110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-25" value="send notification with missed prayers" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="990" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-26" value="&amp;nbsp;Search for mosques near the site" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="860" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-27" value="Get Allah Names" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="317.5" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-28" value="Get Meanings&lt;br&gt;of Allah Names&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315.63" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJB-THNjz2x2V4srmbNX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="7gqt0PY7z3TmWNlQmAuE-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="640" />
+              <mxPoint x="270" y="640" />
+              <mxPoint x="270" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-5" value="Inquiry and answer about fatwas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308.76" y="920" width="133.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A6iqgrvz-yYN0yocD6dp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.109;entryY=0.722;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7gqt0PY7z3TmWNlQmAuE-1" target="7gqt0PY7z3TmWNlQmAuE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
